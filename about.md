@@ -4,17 +4,18 @@ title: About
 permalink: /about/
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+## 豊橋技術科学大学　学生宿舎　グローバルハウス
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+### 宿舎について
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+グローバルハウスは豊橋技術科学大学（豊橋技科大）にある学生宿舎の一つです。
+1部屋5人のシェアハウスで留学生と日本人が共同で生活します。
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+コミュニケーションには英語と日本語が用いられます。
+
+
+
+### 活動内容
+
+グローバルハウスでは主にイベントチームが中心となってグローバルハウス全体のイベントが行われます。
+大きなものでは新入生歓迎会、小さなものでは週に何回か開催される雑談会などがあります。
